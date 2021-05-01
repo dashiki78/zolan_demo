@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dashiki78.github.io/zolan_demo/sitemap.xml
